@@ -1,1 +1,1 @@
-0x02-shell_redirections
+this is bash repo for alx task
